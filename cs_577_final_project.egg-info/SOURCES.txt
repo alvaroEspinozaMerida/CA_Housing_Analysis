@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+cs_577_final_project.egg-info/PKG-INFO
+cs_577_final_project.egg-info/SOURCES.txt
+cs_577_final_project.egg-info/dependency_links.txt
+cs_577_final_project.egg-info/requires.txt
+cs_577_final_project.egg-info/top_level.txt
