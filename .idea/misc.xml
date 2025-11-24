@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-    <option name="sdkName" value="uv (CS_577_Final_Project)" />
+    <option name="sdkName" value="$USER_HOME$/anaconda3 (2)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 virtualenv at ~/DataspellProjects/CS_577_Final_Project/.venv" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 virtualenv at ~/DataspellProjects/CA_Housing_Analysis/.venv" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
   </component>
