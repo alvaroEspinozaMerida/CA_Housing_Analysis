@@ -24,6 +24,8 @@ first-time homeowner incentives, etc.). Remember the housing crash around 2008.
 Don’t be a turkey!
 Current Status:
 - start looking for new datasets that cover macroeconomic and financial data 
+-  created scatterplots for debt in the USA for mortgages, credit card debt, and other debt types
+- 
 
 
 Feedback from Professor:
