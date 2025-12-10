@@ -54,12 +54,12 @@ def clean_dates(df):
 def combine_debt(df1,df2):
     debt_all = pd.concat(
         [df2, df1],
-        axis=0,  # stack rows
+        axis=0,
         ignore_index=True
     )
 
     cols = ['Mortgage', 'HE Revolving', 'Auto Loan', 'Credit Card',
-       'Other', 'Total']   # pick your columns
+       'Other', 'Total']
 
     debt_all[cols] = debt_all[cols].astype(float)
 
