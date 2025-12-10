@@ -25,4 +25,4 @@ CREATE TABLE debt (
 
 INSERT INTO debt (quarter, mortgage, credit_card, student_loan, auto_loan, he_revolving, other, total)
 SELECT quarter, Mortgage, "Credit Card" AS credit_card, "Student Loan" AS student_loan, "Auto Loan" AS auto_loan, "HE Revolving" AS he_revolving, other, total
-FROM read_csv_auto('../data/debt_2003_2025 _clean.csv', header=True)
+FROM read_csv_auto('../data/debt_2003_2025_clean.csv', header=True)
