@@ -1,8 +1,52 @@
 # Predicting Housing Prices in SD?
 #### Alvaro Espinoza, Johnny Rosas, Kristen Waterford
 
-#### Problem Purpose: 
+## Installation Instructions: 
+### Dataset 
+Please make sure to download all the datasets before running the code.
+We have provided a link to a google drive that contains all the datasets that were used for this project. 
+The datasets listed down below are the ones in their original state. These datasets in the drive 
+have been cleaned and organized for ease of uses through EXCEL. The one's in the orignal state contained
+some formatting issues that were fixed through EXCEL and the datasets were also reorganized into a more 
+readable format. Some names from the original datasets were changed to make them more readable and only specific tables 
+were kept for this project. For this project please use the datasets in the drive listed below. Feel free to explore the original datasets if you wish.
+However these will not work with the code provided as their names and formats are different.
+### Dependencies: 
+
+- numpy==2.3.5
+- pandas==2.3.3
+- scipy==1.16.3
+- matplotlib==3.10.8
+- seaborn==0.13.2
+- scikit-learn==1.8.0
+- statsmodels==0.14.6
+- duckdb==1.4.3
+- jupyterlab==4.5.0
+- notebook==7.5.0
+- duckdb==1.4.3
+
+Please make sure to install all the dependencies before running the code. 
+
+If using UV please feel free to install with uv lock file using uv syns
+
+
+## GOOGLE DRIVE LINK: 
+https://drive.google.com/drive/folders/1y0IBR_L_SCslCzZhVG-HVn98-4qIYbWO
+
+## Problem Statement: 
 The primary purpose for predicting housing prices in California is to give residents some insight into the current state of the housing market. This information could possibly be used by potential real estate investors to get an idea as to the type of budget they would need for investing in housing in the state. This project could also be used by government officials in the creation of legislation to show how potentially greater supply is needed to bring down prices or push for more governmental support for home buyers through governmental loans. 
+
+## Presentation Slides:
+Here is a link to the presentation slides for this project: 
+The slides provide a nicer view of the final results of the project. 
+
+https://docs.google.com/presentation/d/1A9m-T36JaRxlzX7Mzs4CADtC7rVYLF9hSODgQ7Z4sck/edit?usp=sharing
+
+## Final Report: 
+Here is a link to the final report for this project: 
+Formal analysis for the final results of this proeject. 
+
+https://docs.google.com/document/d/1IeKgp9KA8KQNeCMQZvFEgCGeT74g5XdCwv5S8ep0Z7c/edit?usp=sharing
 
 ## Data Sets: 
 
