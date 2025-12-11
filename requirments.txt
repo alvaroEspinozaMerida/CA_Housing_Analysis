@@ -8,5 +8,4 @@ statsmodels==0.14.6
 duckdb==1.4.3
 jupyterlab==4.5.0
 notebook==7.5.0
-duckdb==1.4.3
 
