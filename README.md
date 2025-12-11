@@ -211,7 +211,7 @@ Common shared time (2000 - 2024)  YEARLY
 
 ___ 
 ## Model's Implemented 
-- Dataset Search and EDA = ca_pop_EDA.ipynb, debt_EDA.ipynb, median_price_EDA.ipynb, property_tax_EDA.ipynb, housing_units_EDA.ipynb
+- Dataset Search and EDA = ca_pop_EDA.ipynb, debt_EDA.ipynb, median_price_EDA.ipynb, housing_price_analysis.ipynb property_tax_EDA.ipynb, housing_units_EDA.ipynb
 - Linear Regression Model = regression_debt_price_unit.ipynb
 - Logistic Regression Model = logistic_regression.ipynb
 - Small Neural Network & Decision Tree w/ Feature Permeance = small_neural.ipynb
